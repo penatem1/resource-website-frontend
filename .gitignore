@@ -1,6 +1,6 @@
-backend/target
-backend/.env
 
-frontend/elm-stuff
+main.js
+elm-stuff
 
-.idea
+.floo*
+
